@@ -24,4 +24,15 @@ This project is a full relational database design for an E-commerce platform. It
 - MySQL 8.0
 - dbdiagram for ERD
   
+## Developers
+Created by group 468:
+nicole	ochieng	- nicoleochieng7@gmail.com
+june	mwangi - junewahu@gmail.com
+victor	mikae	- mikaev135@gmail.com
+evans	mugendi - acemugendi6@gmail.com
+bolly kevin	echessa - bollykevin75@gmail.com
+gift	odoyo	- otienogift1@gmail.com
+stellah	wycliff - stellahdaniel71@gmail.com
+sibongakonke	bhengu- snbhengu08@gmail.com
+ambuche	david	- ddoronje25@gmail.com
 
