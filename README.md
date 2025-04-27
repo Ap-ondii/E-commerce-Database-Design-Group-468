@@ -12,7 +12,7 @@ This project is a full relational database design for an E-commerce platform. It
 - Normalized up to 3NF level.
 
 ## 📊 ERD
-![ERD Screenshot](https://dbdiagram.io/d)
+![ERD Screenshot](https://dbdiagram.io/d/Ecommerce-680e380c1ca52373f588d374)
 
 ## 🚀 How to Set Up
 1. Clone this repository
